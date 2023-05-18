@@ -6,6 +6,6 @@
 */
 
 // Task 1: Add code here
-
+src = "external.js"
 // Do not change the code below
 document.querySelector("#test").innerHTML = print();
